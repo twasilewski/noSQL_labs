@@ -1,11 +1,11 @@
 #!/bin/sh
 psql tomek tomek << EOF
 	SELECT
-		movieId, COUNT(1) AS rated
+		movieId,avg(rating) AS ratings
 	FROM
 		ratings
-	GROUP BY
-		movieId
-	ORDER BY rated DESC
-	LIMIT 10;
+	GROUP BY 
+		 movieId
+	ORDER BY ratings DESC
+	LIMIT 500;
 EOF
