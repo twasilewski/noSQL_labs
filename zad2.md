@@ -1,5 +1,10 @@
 # ZADANIE 2
 
+specyfikacja komputera:
+
+[spec](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/Specyfikacja.md)
+
+
 MONGODB
 
 Sciagnalem baze danych movieLens z:
