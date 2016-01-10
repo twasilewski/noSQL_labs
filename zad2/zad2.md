@@ -33,7 +33,7 @@ wyszukiwanie trwalo 11.505s
 
 wyszukuje 500 najlepiej ocenianych filmow skryptem:
 
-[top active users](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2_top500RatedMovies.js)
+	[top active users](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2_top500RatedMovies.js)
 
 wyszukiwanie trwalo 12.001s
 
