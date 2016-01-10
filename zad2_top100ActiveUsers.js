@@ -10,7 +10,7 @@ mongoClient.connect(url, function(err, db) {
 		([
 				{ $group : {_id : "$movieId",  count : {$sum : 1}}},
 				{ $sort : { count : -1 }},
-				{ $limit: 10 }
+				{ $limit: 100 }
 		]);
 		cursor.each(function (err, doc) {
 			if (err) {
@@ -22,6 +22,6 @@ mongoClient.connect(url, function(err, db) {
 				}
 			}
 		});
-		//db.close();
+		db.close();
 	}
 });
