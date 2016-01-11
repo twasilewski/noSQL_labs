@@ -46,7 +46,7 @@ importuje baze danych skryptem:
 
 wykorzystanei zasobow systemowych podczas importu:
 
-![Rys2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/rys4.png?raw=true)
+![Rys2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/rys4.png?raw=true)
 
 importowanie trwalo 36.890s
 
