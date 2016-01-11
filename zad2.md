@@ -2,7 +2,7 @@
 
 specyfikacja komputera:
 
-[spec](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/Specyfikacja.md)
+[spec](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/Specyfikacja.md)
 
 
 MONGODB
