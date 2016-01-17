@@ -1,0 +1,10 @@
+{ _id: 'STREET', count: 1597832 }
+{ _id: 'RESIDENCE', count: 1008522 }
+{ _id: 'SIDEWALK', count: 601526 }
+{ _id: 'APARTMENT', count: 598427 }
+{ _id: 'OTHER', count: 223819 }
+{ _id: 'PARKING LOT/GARAGE(NON.RESID.)', count: 170510 }
+{ _id: 'ALLEY', count: 135771 }
+{ _id: 'SCHOOL, PUBLIC, BUILDING', count: 132105 }
+{ _id: 'RESIDENCE-GARAGE', count: 118299 }
+{ _id: 'RESIDENCE PORCH/HALLWAY', count: 104705 }
