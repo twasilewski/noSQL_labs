@@ -1,0 +1,10 @@
+{ _id: 'THEFT', count: 1235097 }
+{ _id: 'BATTERY', count: 1088662 }
+{ _id: 'CRIMINAL DAMAGE', count: 686838 }
+{ _id: 'NARCOTICS', count: 672270 }
+{ _id: 'OTHER OFFENSE', count: 368828 }
+{ _id: 'ASSAULT', count: 362449 }
+{ _id: 'BURGLARY', count: 350331 }
+{ _id: 'MOTOR VEHICLE THEFT', count: 282922 }
+{ _id: 'ROBBERY', count: 223323 }
+{ _id: 'DECEPTIVE PRACTICE', count: 204919 }

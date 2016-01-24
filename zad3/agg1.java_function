@@ -1,0 +1,13 @@
+MongoClient mongoClient = new MongoClient("localhost", 27017);
+DB database = mongoClient.getDB("crimes");
+DBCollection collection = database.getCollection("crimes");
+			
+DBObject groupFields = new BasicDBObject("_id", "$Location Description");
+groupFields.put("count", new BasicDBObject( "$sum", 1));
+DBObject group = new BasicDBObject("$group", groupFields );
+DBObject sortFields = new BasicDBObject("count", -1);
+DBObject sort = new BasicDBObject("$sort", sortFields );
+AggregationOutput output = collection.aggregate(group, sort);
+System.out.println( output.results() );
+		
+mongoClient.close();
