@@ -1,9 +1,5 @@
 # ZADANIE 2
 
-specyfikacja komputera:
-
-[spec](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/Specyfikacja.md)
-
 
 MONGODB
 
@@ -35,13 +31,10 @@ wyszukiwanie trwalo 11.505s
 
 wyszukuje 500 najlepiej ocenianych filmow skryptem:
 
-<<<<<<< HEAD:zad2.md
-[top active users](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/zad2_top500RatedMovies.js)
-=======
 [top active users](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2_top500RatedMoes.js)
 
 wynik: [wynik](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/wyniki_top500RatedMovies)
->>>>>>> noSQL_labs:zad2/zad2.md
+
 
 wyszukiwanie trwalo 12.001s
 
@@ -63,7 +56,7 @@ wyszukuje 100 najaktywniejszych uzytkownikow skryptem:
 [top active users](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/psql_zad2_top100ActiveUsers.sh)
 
 uzycie procesora podczas wykonywania skryptu:
-![Rys2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/rys2.png?raw=true)
+![Rys2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/rys2.png?raw=true)
 
 wyszukiwanie trwalo 1m 45.387s
 
