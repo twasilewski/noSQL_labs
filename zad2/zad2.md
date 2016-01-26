@@ -78,7 +78,11 @@ wyszukuje 500 najlepiej ocenianych filmow skryptem:
 
 wyszukiwanie trwalo 21.392s
 
+wyszukuje rozklad ocen:
 
+[ratings distribution](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/psql_zad2_rating%20distribution.sh)
+
+wyszukiwanie trwalo 15.857s
 
 
 
