@@ -22,15 +22,19 @@ JavaScript
 
 [aggregation 1](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/agg_1.js)
 
-//10 najczesciej popelnianych typow przestepstw
+wyniki: [wynik](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/wynik1)
+
+10 najczesciej popelnianych typow przestepstw
 
 [aggregation 2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/agg_2.js)
 
-//10 najniebezpieczniejszych ulic
+wyniki: [wynik](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/wynik2)
+
+10 najniebezpieczniejszych ulic
 
 [aggregation 3](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/agg_3.js)
 
-
+wyniki: [wynik](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/wynik3)
 
 JAVA
 
