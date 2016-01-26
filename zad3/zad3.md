@@ -48,7 +48,7 @@ JAVA
 
 [aggregation 2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/agg2.java_function)
 
-![Wykres 2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/wynik2_wykres?raw=true)
+![Wykres 2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/wynik2_wykres.png?raw=true)
 
 10 najniebezpieczniejszych ulic
 
