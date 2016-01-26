@@ -42,11 +42,15 @@ JAVA
 
 [aggregation 1](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/agg1.java_function)
 
-//10 najczesciej popelnianych typow przestepstw
+![wykres 1](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/wynik1_wykres.png?raw=true)
+
+10 najczesciej popelnianych typow przestepstw
 
 [aggregation 2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/agg2.java_function)
 
-//10 najniebezpieczniejszych ulic
+![Wykres 2](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/wynik2_wykres?raw=true)
+
+10 najniebezpieczniejszych ulic
 
 [aggregation 3](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad3/agg3.java_function)
 
