@@ -39,6 +39,18 @@ wynik: [wynik](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/wy
 wyszukiwanie trwalo 12.001s
 
 
+wyszukuje rozklad ocen skryptem:
+
+[ratings distribution](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/zad2_rating%20distribution.js)
+
+wyszukiwanie trwalo 7.114s
+
+wynik: [wynik](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/wyniki_rating_dist)
+
+wynik w formie wykresu: 
+
+![Wykres](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/rating_chart.png?raw=true)
+
 POSTGRESQL
 
 importuje baze danych skryptem:
@@ -65,6 +77,9 @@ wyszukuje 500 najlepiej ocenianych filmow skryptem:
 [top 500 rated movies](https://github.com/twasilewski/noSQL_labs/blob/noSQL_labs/zad2/psql_zad2_top500_RatedMovies.sh)
 
 wyszukiwanie trwalo 21.392s
+
+
+
 
 
 
