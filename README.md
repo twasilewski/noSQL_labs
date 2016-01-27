@@ -13,7 +13,7 @@
 
 |        Typ                |              Wartość            |              Uwagi                       |
 |---------------------------|---------------------------------|------------------------------------------|
-| Rodzaj komputera          | Laptop                          | Firmowy komputer - złomek                |
+| Rodzaj komputera          | Laptop                          | 			                 |
 | OS                        | Linux Mint                      | Wersja 17.3                              |
 | Procesor                  | Intel Core i5 	              | 4 rdzenie                                |
 | Pamięć                    | 8 GB                            | 1600 MHZ DDR3                            |
